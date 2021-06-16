@@ -1,0 +1,27 @@
+{
+  "name": "ts-sync-decorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc -p ./src/tsconfig.json && rollup -c"
+  },
+  "keywords": [
+    "sync",
+    "typescript",
+    "decorator"
+  ],
+  "typings": "./dist/index.d.ts",
+  "author": "sexygod",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "rollup": "^2.52.0",
+    "typescript": "^4.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sexy6God/ts-sync-decorator.git"
+  }
+}
