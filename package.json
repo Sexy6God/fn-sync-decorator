@@ -1,6 +1,6 @@
 {
-  "name": "ts-sync-decorator",
-  "version": "1.0.0",
+  "name": "fn-sync-decorator",
+  "version": "1.0.2",
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sexy6God/ts-sync-decorator.git"
+    "url": "git+https://github.com/Sexy6God/fn-sync-decorator.git"
   }
 }
